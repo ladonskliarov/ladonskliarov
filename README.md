@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ladonskliarov
-- 👀 I’m interested in Mobile Development, Machine Learning, XR 
-- 🌱 I’m currently learning Mobile Development, Machine Learning, XR 
-- 💞️ I’m looking to collaborate on Flutter
+- 👀 I’m interested in Mobile Development, Machine Learning, XR
+- 🌱 I’m currently learning Mobile Development
 - 📫 How to reach me sklyarov.ladon@gmail.com
 
 <!---
