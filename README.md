@@ -1,6 +1,6 @@
 <h1>Greetings! I’m Ladon Skliarov</h1>
 
-<h3>Be involved in our shared reality, don't pass by. Glory to Ukraineian Heroes! Support here:</h3>
+<h3>Be involved in our shared reality, don't pass by. Glory to Ukrainian Heroes! Support here:</h3>
 <a href="https://prytulafoundation.org/en/">https://prytulafoundation.org/en/</a>
 
 <h3>Today, I use the next stack of technologies:</h3>
