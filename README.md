@@ -16,6 +16,6 @@
 <h3>You can text me:</h3>
 <a>ladonskliarov@gmail.com</a>
 
-<h2>Codewars statistic:</h2>
+<h2>Codewars statistics:</h2>
 
 ![codewars](https://www.codewars.com/users/Ladon%20Skliarov/badges/large)
